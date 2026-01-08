@@ -1,6 +1,6 @@
 # Bright Data's Singapore Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/sg) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/sg) 
 
 ## Overview
 정밀한 타기팅, 타의 추종을 불허하는 안정성, 그리고 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [Singapore proxies](https://brightdata.co.kr/locations/sg)로 끊김 없는 スクレイピング을 경험해 보시기 바랍니다. Singapore에서 웹사이트를 スクレイピング하기 시작하고 다시는 차단되지 않도록 하십시오.
@@ -39,7 +39,7 @@
 - **3G/4G/5G モバイルプロキシ IP**
 - **24/7 글로벌 지원**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/hk) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/hk) 
 
 ## Getting Started with Bright Data's Singapore proxies
 1. **무료 체험 시작**: 신용카드가 필요하지 않습니다.
